@@ -4,4 +4,7 @@
   <artifactId>maven-plugin-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>maven-dependency-plugin</module>
+  </modules>
 </project>
